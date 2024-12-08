@@ -18,12 +18,12 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 ## 予定役職
 | ロール名 | 概要 | 募集人数 | おすすめの方 |
 | --- | --- | --- | --- |
-| [Owner](role/admin.md) | サーバー内の最高管理者・オーナーに属する人が付与される。 | - |
-| [SubOwner](role/subowner.md) | サーバー内の副管理者。Ownerの仕事を担保する。 | - |
-| [Admin](role/admin.md) | サーバー全体を把握し、Ownerの元について、各々のロールリーダーを担ったりする仕事。VCができる方向け。 | 3人 | 他鯖などで、管理者やプロジェクトリーダーを担っていた方 |
-| [Builder](role/builder.md) | サーバー内の建築物などを構造する仕事。 | 2人 | 豆腐以外の建築ができる方 |
-| [Developer](role/dev.md) | サーバー内のPluginや仕事の効率化を図るツールなどの作成をする仕事。 | 2人 | JavaやWeb開発ができる方 |
-| [Staff](role/staff.md) | プレイヤーの監視やサーバー宣伝などの広報活動または雑用の仕事。 | 3人 | 短時間だけ仕事ができる方 |
+| [Owner](recruit/role/admin.md) | サーバー内の最高管理者・オーナーに属する人が付与される。 | - |
+| [SubOwner](recruit/role/subowner.md) | サーバー内の副管理者。Ownerの仕事を担保する。 | - |
+| [Admin](recruit/role/admin.md) | サーバー全体を把握し、Ownerの元について、各々のロールリーダーを担ったりする仕事。VCができる方向け。 | 2人 | 他鯖などで、管理者やプロジェクトリーダーを担っていた方 |
+| [Builder](recruit/role/builder.md) | サーバー内の建築物などを構造する仕事。 | 2人 | 豆腐以外の建築ができる方 |
+| [Developer](recruit/role/dev.md) | サーバー内のPluginや仕事の効率化を図るツールなどの作成をする仕事。 | 2人 | JavaやWeb開発ができる方 |
+| [Staff](recruit/role/staff.md) | プレイヤーの監視やサーバー宣伝などの広報活動または雑用の仕事。 | 3人 | 短時間だけ仕事ができる方 |
 
 ## 権限について
 運営内では、Ownerの命令は絶対とします。*1
@@ -119,5 +119,5 @@ MCID: Kinoko_2K
 Twitter: @kinoko1216
 
 Minecraft JavaEdition & BedrockEdition『きのこサーバー』を管理していた。(2022/08/15~2024/06/01)
-Monocraftランキングが最大20位。mcjpは、30位まで。クラフターズコロニーでは、一番多くいいねをもらっているサーバー。
+Monocraftでは、最大20位。mcjpは、30位まで。クラフターズコロニーでは、一番多くいいねをもらっているサーバー。
 ```
