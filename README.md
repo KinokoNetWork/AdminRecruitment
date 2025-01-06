@@ -6,7 +6,7 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 
 また、以下の注意事項に気を付けてください。
 
-> ・この活動は、ボランティア活動というのを前提としてください。サーバーの傾向的に金銭またはその他の特典が得れる場合がある可能性はありますが、前提は、金銭が発生しないものと考えて参加してください。<br>
+> ・この活動は、ボランティア活動というのを前提としてください。サーバーの傾向的に金銭、または、その他の報酬が貰える可能性はありますが、前提は、金銭が発生しないものと考えて参加してください。<br>
 
 > ・AdminまたはOwnerが、運営活動を停滞または、参加していないことを確認した場合、運営除名ができるとします。<br>
 
@@ -23,6 +23,7 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 | [Builder](recruit/role/builder.md) | サーバー内の建築物などを構造する仕事。 | 2人 | 豆腐以外の建築ができる方 |
 | [Developer](recruit/role/dev.md) | サーバー内のPluginや仕事の効率化を図るツールなどの作成をする仕事。 | 2人 | JavaやWeb開発ができる方 |
 | [Staff](recruit/role/staff.md) | プレイヤーの監視やサーバー宣伝などの広報活動または雑用の仕事。 | 3人 | 短時間だけ仕事ができる方 |
+| [Assistant](#) | 政治・経済の安定を目指すために、サーバー構想を考える仕事。 | 2人 | ※政経、公共の知識がある方|
 
 ## 権限について
 運営内では、Ownerの命令は絶対とします。*1
@@ -34,7 +35,7 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 役職の中には、プロジェクトリーダー、メンバーという、権限が存在すると定めます。<br>
 プロジェクトリーダーは、Adminに属する人を指します。
 
-権限順に並ばせると、「Owner > SubOwner > Admin > Developer > Builder > Staff」となります。
+権限順に並ばせると、「Owner > SubOwner > Admin > Developer > Builder >　Assistant > Staff」となります。
 
 *1 運営内での方針は、すべて鯖主の方針によって最終的に定めるとしますが、独裁政権を防ぐため、SubOwner・Admin役職に属する過半数が反対したら、その案は棄却するものとします。
 
@@ -46,7 +47,7 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 例として、Developerのメンバーが昇格した際、AdminのDeveloperプロジェクトリーダーになります。
 
 降格は、ルールに違反するものや、Adminの指示に従わなかった場合に降格対象になります。
-
+<!--
 ## 仕事について
 仕事は、主にOwnerまたはAdminから頼みます。
 
@@ -55,20 +56,17 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 また、フォーラム上で話し合ってください。必要に応じてGitHubリポジトリを作成できます。
 
 詳しい仕事内容については、ロールリンクに結びついているページをご確認ください。
-
+-->
 ## 運営になるための条件
 以下の条件を満たしてない方は、申請しても返信が来ません。
-・に書かれていることは必須条件ですが、◎に書かれていることは優遇されるだけです。
 
 - 13歳以上。
 
 - Minecraft Java Editionのアカウントを持っている。
-    - Bedrock Editionのアカウントも所持している。
+    - または、Bedrock Editionのアカウントも所持している。
 
 - 他サーバーで問題行動を起こしていない・処罰ログがない。
-    - MCBansで9.5以上である。（配慮）
-
-~~- きのこサーバー内のプレイ時間が3時間以上である。~~
+    - または、MCBansで9.5以上である。
 
 - Googleアカウントを所持しており、DiscordアカウントまたはXアカウントを所持している。
 
@@ -78,7 +76,7 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 
 - 適切な自己報告ができる。
 
-- ~~『きのこサーバー2』のDiscordに参加している。~~
+- 『きのこサーバー2』のDiscordに参加している。
 
 ## 応募する際の必要な情報
 - ニックネーム
@@ -104,7 +102,7 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 ## 申し込み先
 申し込む際に、[運営登用規約](employment_contract.md)も確認してください。
 
-https://forms.gle/oDQsD9qEpoZWTLdcA
+[https://forms.gle/oDQsD9qEpoZWTLdcA](https://forms.gle/oDQsD9qEpoZWTLdcA)
 
 ## 最後に
 『きのこサーバー2』は、2022年8月から活動開始し、2024年6月に活動停止した、『きのこサーバー』の新サーバーです。<br>
