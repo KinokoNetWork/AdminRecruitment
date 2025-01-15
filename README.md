@@ -2,6 +2,8 @@
 ![](server_img.png)
 Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募集ドキュメントです。
 
+サーバーの進捗状況は、[KinokoNetWork/.github](https://github.com/KinokoNetWork/.github)、または、[KinokoNetWork/Project](https://github.com/orgs/KinokoNetWork/projects/3/views/1)から確認できます。
+
 これらのドキュメントを読んで、運営に参加したい方は、お問い合わせフォームでお待ちしております。
 
 また、以下の注意事項に気を付けてください。
@@ -14,7 +16,7 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 
 > ・運営が、サーバーのルールに大きく抵触する場合は、運営メンバー内で弾劾裁判を開き、除名または永久Banを行う可能性があります。
 
-> ・サーバーの進捗状況は、[KinokoNetWork/.github](https://github.com/KinokoNetWork/.github)、または、[KinokoNetWork/Project](https://github.com/orgs/KinokoNetWork/projects/3/views/1)から確認できます。
+
 ## 予定役職
 | ロール名 | 概要 | 募集人数 | おすすめの方 |
 | --- | --- | --- | --- |
