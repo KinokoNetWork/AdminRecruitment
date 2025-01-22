@@ -21,12 +21,12 @@ Minecraft JavaEdition & BedrockEdition『きのこサーバー2』の運営募�
 | ロール名 | 概要 | 募集人数 | おすすめの方 |
 | --- | --- | --- | --- |
 | [Owner](recruit/role/admin.md) | サーバー内の最高管理者・オーナーに属する人が付与される。 | - |
-| [SubOwner](recruit/role/subowner.md) | サーバー内の副管理者。Ownerの仕事を担保する。 | - |
+| [SubOwner](recruit/role/subowner.md) | サーバー内の副管理者。Ownerの仕事を担保する。 | 1人 |
 | [Admin](recruit/role/admin.md) | サーバー全体を把握し、Ownerの元について、各々のロールリーダーを担ったりする仕事。VCができる方向け。 | 2人 | 他鯖などで、管理者やプロジェクトリーダーを担っていた方 |
-| [Builder](recruit/role/builder.md) | サーバー内の建築物などを構造する仕事。 | 2人 | 豆腐以外の建築ができる方 |
-| [Developer](recruit/role/dev.md) | サーバー内のPluginや仕事の効率化を図るツールなどの作成をする仕事。 | 2人 | JavaやWeb開発ができる方 |
-| [Staff](recruit/role/staff.md) | プレイヤーの監視やサーバー宣伝などの広報活動または雑用の仕事。 | 3人 | 短時間だけ仕事ができる方 |
-| [Assistant](#) | 政治・経済の安定を目指すために、サーバー構想を考える仕事。 | 2人 | ※政経、公共の知識がある方|
+| [Builder](recruit/role/builder.md) | サーバー内の建築物などを構造する仕事。 | 2人以上 | 豆腐以外の建築ができる方 |
+| [Developer](recruit/role/dev.md) | サーバー内のPluginや仕事の効率化を図るツールなどの作成をする仕事。 | 2人以上 | JavaやWeb開発ができる方 |
+| [Staff](recruit/role/staff.md) | プレイヤーの監視やサーバー宣伝などの広報活動または雑用の仕事。 | - | 短時間だけ仕事ができる方 |
+| [Assistant](#) | 政治・経済の安定を目指すために、サーバー構想を考える仕事。 | - | ※政経、公共の知識がある方|
 
 ## 権限について
 運営内では、Ownerの命令は絶対とします。*1
