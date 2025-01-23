@@ -11,17 +11,17 @@
 きのこサーバー運営及び運営が作成したコンテンツの著作権は、Kinoko_2Kまたはきのこサーバーに譲渡されるものとする。<br>
 
 ## 【運営応募条件】
-1. 本規約を読み、同意し、これに従うこと。
-2. 成年者または13歳以上かつ未成年で、親権者からの同意を得ていること。
-3. Minecraft Java Editionアカウントの正規アカウントを所有していること。
-4. 自身専用のGitHubアカウント、Googleアカウント、Discordアカウントを所持していること。
-5. きのこサーバー公式Discordサーバーに参加していること。
-6. 他サーバー上で問題行動や処罰対象となっていないこと。
-7. 金銭が発生しない、ボランティア活動ということに同意できること。
-8. Admin以上に該当する権限者の指示に従い、報告を怠らないこと。
-
-> [!IMPORTANT]
-> きのこサーバー公式Discordは、まだ作成途中なので、応募条件除外とする。
+<ul>
+    <li><span style="font-size: 12pt;"><a title="https://github.com/KinokoNetWork/AdminRecruitment/blob/main/employment_contract.md" href="https://github.com/KinokoNetWork/AdminRecruitment/blob/main/employment_contract.md" target="_blank" rel="noopener">KinokoNetWork 運営登用規約</a>に同意できる。</span></li>
+    <li>13歳以上である。</li>
+    <li><span style="font-size: 12pt;">Minecraft</span><span style="font-size: 12pt;"> Java Edition または Bedrock Editionのアカウントを所持している。</span></li>
+    <li><span style="font-size: 12pt;">他サーバーでの問題行動が見られない。</span></li>
+    <li><span style="font-size: 12pt;">Discordアカウントを所持しており、<a title="https://discord.gg/Rf5xP5JptK" href="https://discord.gg/Rf5xP5JptK" target="_blank" rel="noopener">きのこサーバー公式Discord</a>に参加している。</span></li>
+    <li><span style="font-size: 12pt;">Googleアカウントを所有している。</span></li>
+    <li style="font-weight: bold;"><strong><span style="font-size: 12pt;">金銭が発生しない、ボランティア活動であることに同意できる。</span></strong></li>
+    <li style="font-weight: bold;"><strong><span style="font-size: 12pt;">積極的なコミュニケーションが行える。</span></strong></li>
+    <li><span style="font-size: 12pt;">(可能であれば)Discordを使用して、<strong>VCに参加(聞き専:可能)できる。</strong></span></li>
+</ul>
 
 ## 【サービス提供上での禁止事項】
 以下の行為を禁止事項とする。
